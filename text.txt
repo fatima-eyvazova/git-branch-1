@@ -3,6 +3,11 @@ new files added
 Elnur Team2 Text Update Successfully sfsfs
  master
 
+ Leyla
+front added file 
+new file
+Leyla modified on text.txt with branch(Leyla)
+
 Leyla Team2 Text Added Successfully
 Leylush
 Vefush
