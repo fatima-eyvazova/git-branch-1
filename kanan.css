@@ -1,0 +1,10 @@
+main {
+    position: absolute;
+    top: 35%;
+    left: 25%;
+    font-size: 24px;
+    z-index: 2;
+    color: white;
+    background-color: rgb(128, 0, 117);
+    text-align: center;
+}
